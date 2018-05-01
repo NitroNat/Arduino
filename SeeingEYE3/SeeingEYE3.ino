@@ -6,7 +6,7 @@
  **Must DC shift input to set lower limit to 0V
  http://arduino.cc/en/Reference/AnalogReference?from=Reference.AREF
  
- //MAC = 0xE0C79D61F333 (ADRIAN CHAN'S BLUNO)
+ //MAC = 0xE0C79D61F333
 
  TODO: 
  1) Connect to another bluetooth arduino
