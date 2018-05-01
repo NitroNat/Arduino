@@ -1,5 +1,5 @@
 
- //MAC = 0xE0C79D61F333 (ADRIAN CHAN'S BLUNO)
+ //MAC = 0xE0C79D61F333
 /*
  TODO: 
  1) Send Other information other than only sensor/decimal values
