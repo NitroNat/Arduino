@@ -1,5 +1,5 @@
 /*
- //MAC = 0xE0C79D61F333 (ADRIAN CHAN'S BLUNO)
+ //MAC = 0xE0C79D61F333
 */
 #include "blunoAccessory.h"
 #include "U8glib.h"
